@@ -1,0 +1,21 @@
+2023-03-22 22:25:23 error: [ParseError] syntax error, unexpected token "public", expecting end of file in C:\xampp\htdocs\Prova\src\Model\Table\ArticlesTable.php on line 14
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\composer\ClassLoader.php:428
+- [internal]:??
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Core\App.php:161
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Core\App.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:289
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:225
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Datasource\Locator\AbstractLocator.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\ORM\Locator\TableLocator.php:205
+- C:\xampp\htdocs\Prova\vendor\cakephp\bake\src\Command\ModelCommand.php:204
+- C:\xampp\htdocs\Prova\vendor\cakephp\bake\src\Command\ModelCommand.php:496
+- C:\xampp\htdocs\Prova\vendor\cakephp\bake\src\Command\ModelCommand.php:246
+- C:\xampp\htdocs\Prova\vendor\cakephp\bake\src\Command\ModelCommand.php:157
+- C:\xampp\htdocs\Prova\vendor\cakephp\bake\src\Command\ModelCommand.php:112
+- C:\xampp\htdocs\Prova\vendor\cakephp\bake\src\Command\ModelCommand.php:94
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\xampp\htdocs\Prova\bin\cake.php:12
+

@@ -1,0 +1,767 @@
+2023-03-22 20:21:54 error: [Cake\Datasource\Exception\MissingDatasourceException] Datasource class default could not be found.  in C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Datasource\ConnectionRegistry.php on line 57
+Exception Attributes: array (
+  'class' => 'default',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php:102
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Datasource\ConnectionManager.php:204
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Panel\SqlLogPanel.php:53
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\ToolbarService.php:224
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:58
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /
+2023-03-22 20:21:59 error: [Cake\Datasource\Exception\MissingDatasourceException] Datasource class default could not be found.  in C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Datasource\ConnectionRegistry.php on line 57
+Exception Attributes: array (
+  'class' => 'default',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Core\ObjectRegistry.php:102
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Datasource\ConnectionManager.php:204
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Panel\SqlLogPanel.php:53
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\ToolbarService.php:224
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:58
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /
+2023-03-22 21:05:30 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /products/tagged
+2023-03-22 21:05:30 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/9ab7b114-29ef-4372-b2a0-e32a79c0564a
+Referer URL: http://localhost/Prova/products/tagged
+2023-03-22 21:06:05 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /products
+2023-03-22 21:06:05 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/5b7c38a1-ca0d-4e0b-ba5d-cf001a38a844
+Referer URL: http://localhost/Prova/products
+2023-03-22 21:07:51 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /products
+2023-03-22 21:07:51 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/ad56cbfc-32f5-4569-a852-932a82f432c6
+Referer URL: http://localhost/Prova/products
+2023-03-22 21:07:53 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /products
+2023-03-22 21:07:54 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/0df75d7d-444e-4f1e-b5a6-117b885d014c
+Referer URL: http://localhost/Prova/products
+2023-03-22 21:07:57 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /
+2023-03-22 21:07:57 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/deea6323-ce60-4495-8295-11972f84d721
+Referer URL: http://localhost/Prova/
+2023-03-22 21:07:59 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /
+2023-03-22 21:08:00 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/3af169a0-d01f-4a03-8f91-4b738e6c0c04
+Referer URL: http://localhost/Prova/
+2023-03-22 21:08:06 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/0df75d7d-444e-4f1e-b5a6-117b885d014c
+Referer URL: http://localhost/Prova/products
+2023-03-22 21:08:07 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/9ab7b114-29ef-4372-b2a0-e32a79c0564a
+Referer URL: http://localhost/Prova/products/tagged
+2023-03-22 21:11:13 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /
+2023-03-22 21:11:14 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 28
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/09b33017-d8b1-4995-9024-9bc9e66a01ae
+Referer URL: http://localhost/Prova/
+2023-03-22 21:13:56 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /tagged
+2023-03-22 21:13:57 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/2a3e748c-f93b-4032-80b1-a43465579f97
+Referer URL: http://localhost/Prova/tagged
+2023-03-22 21:14:17 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /bookmarks/tagged
+2023-03-22 21:14:19 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/8069aeec-67a2-4eda-9aa5-8232920ece75
+Referer URL: http://localhost/Prova/bookmarks/tagged
+2023-03-22 21:14:24 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/8069aeec-67a2-4eda-9aa5-8232920ece75
+Referer URL: http://localhost/Prova/bookmarks/tagged
+2023-03-22 21:14:39 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/8069aeec-67a2-4eda-9aa5-8232920ece75
+Referer URL: http://localhost/Prova/bookmarks/tagged
+2023-03-22 21:35:33 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /
+2023-03-22 21:35:33 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/b677e4e1-a9de-440b-b223-3809ec737df1
+Referer URL: http://localhost/Prova/
+2023-03-22 21:35:36 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /
+2023-03-22 21:35:37 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/cc59680b-5c98-4234-a25e-9e5be912c6f5
+Referer URL: http://localhost/Prova/
+2023-03-22 21:35:42 error: [Error] Class "Router" not found in C:\xampp\htdocs\Prova\config\routes.php on line 27
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:198
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:135
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:124
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:95
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:155
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /debug-kit/toolbar/cc59680b-5c98-4234-a25e-9e5be912c6f5
+Referer URL: http://localhost/Prova/
+2023-03-22 22:36:24 error: [Cake\Controller\Exception\MissingActionException] Action UsersController::login() could not be found, or is not accessible. in C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:162
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2Farticles%2Findex%2F1
+Referer URL: http://localhost/Prova/users/login?redirect=%2Farticles%2Findex%2F1
+2023-03-22 22:37:03 error: [Cake\Controller\Exception\MissingActionException] Action UsersController::login() could not be found, or is not accessible. in C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2Farticles%2Findex
+2023-03-22 22:48:16 error: [Cake\Controller\Exception\MissingActionException] Action UsersController::login() could not be found, or is not accessible. in C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2Farticles%2Findex
+2023-03-22 22:53:42 error: [Cake\Controller\Exception\MissingActionException] Action UsersController::login() could not be found, or is not accessible. in C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2Farticles%2Fview
+2023-03-22 23:03:35 error: [Cake\Controller\Exception\MissingActionException] Action UsersController::login() could not be found, or is not accessible. in C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2Farticles%2Ftagged
+2023-03-22 23:38:32 error: [Cake\Controller\Exception\MissingActionException] Action UsersController::login() could not be found, or is not accessible. in C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2Fusers
+2023-03-22 23:39:29 error: [Cake\Controller\Exception\MissingActionException] Action UsersController::login() could not be found, or is not accessible. in C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\Controller.php on line 526
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Stack Trace:
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:134
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Controller\ControllerFactory.php:114
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\BaseApplication.php:320
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:86
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\CsrfProtectionMiddleware.php:174
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Middleware\BodyParserMiddleware.php:157
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\RoutingMiddleware.php:186
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Routing\Middleware\AssetMiddleware.php:68
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Error\Middleware\ErrorHandlerMiddleware.php:131
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\debug_kit\src\Middleware\DebugKitMiddleware.php:60
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:82
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Runner.php:67
+- C:\xampp\htdocs\Prova\vendor\cakephp\cakephp\src\Http\Server.php:90
+- C:\xampp\htdocs\Prova\webroot\index.php:40
+
+Request URL: /users/login?redirect=%2Fusers
